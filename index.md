@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Shane's Blog
-tagline: Inner Peace
+title: 
+tagline: 
 ---
 <ul class="posts">
   {% for post in site.posts %}

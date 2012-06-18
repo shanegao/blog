@@ -2,7 +2,7 @@
 layout: post
 title: "Instruments Target failed to run"
 description: ""
-category: tech 
+category: cocoa
 tags: [Instruments, Profile, Xcode]
 ---
 {% include JB/setup %}

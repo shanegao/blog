@@ -2,7 +2,7 @@
 layout: post
 title: "Xcode 4.2中禁用ARC"
 description: "iOS Development"
-category: tech
+category: cocoa
 tags: [ARC, LLVM, Xcode]
 ---
 {% include JB/setup %}

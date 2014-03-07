@@ -1,0 +1,13 @@
+
+http://shanegao.com/blog//about.html
+http://shanegao.com/blog//archive.html
+http://shanegao.com/blog//atom.xml
+http://shanegao.com/blog//categories.html
+http://shanegao.com/blog//index.html
+http://shanegao.com/blog//pages.html
+http://shanegao.com/blog//rss.xml
+http://shanegao.com/blog//sitemap.txt
+http://shanegao.com/blog//tags.html
+
+http://shanegao.com/blog//tech/2013/09/02/cocoa-core-competencies
+http://shanegao.com/blog//life/2013/08/14/hello-world

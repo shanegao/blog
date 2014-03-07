@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+        <title>Shane's Blog</title>
+        <description>Shane's Blog - shanegao</description>
+        <link>http://shanegao.com/blog/</link>
+        <link>http://shanegao.com/blog/</link>
+        <lastBuildDate>2013-11-19T17:18:25+08:00</lastBuildDate>
+        <pubDate>2013-11-19T17:18:25+08:00</pubDate>
+        <ttl>1800</ttl>
+
+
+        <item>
+                <title>Cocoa 核心要点</title>
+                <description>&lt;p&gt;&lt;a href='https://developer.apple.com/library/ios/documentation/general/conceptual/DevPedia-CocoaCore'&gt;Cocoa Core Competencies&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id='accessibility'&gt;Accessibility&lt;/h3&gt;
+
+&lt;h3 id='accessor_method'&gt;Accessor method&lt;/h3&gt;</description>
+                <link>http://shanegao.com/blog//tech/2013/09/02/cocoa-core-competencies</link>
+                <guid>http://shanegao.com/blog//tech/2013/09/02/cocoa-core-competencies</guid>
+                <pubDate>2013-09-02T00:00:00+08:00</pubDate>
+        </item>
+
+        <item>
+                <title>再见北京</title>
+                <description>&lt;p&gt;北京空气 地铁挤，地铁站建设落后 公交堵车，挤 房子中介费一个月房租，六环内2w&lt;/p&gt;</description>
+                <link>http://shanegao.com/blog//life/2013/08/14/hello-world</link>
+                <guid>http://shanegao.com/blog//life/2013/08/14/hello-world</guid>
+                <pubDate>2013-08-14T00:00:00+08:00</pubDate>
+        </item>
+
+
+</channel>
+</rss>

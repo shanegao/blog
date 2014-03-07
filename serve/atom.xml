@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Shane's Blog</title>
+ <link href="http://shanegao.com/blog//" rel="self"/>
+ <link href="http://shanegao.com/blog/"/>
+ <updated>2013-11-19T17:18:25+08:00</updated>
+ <id>http://shanegao.com/blog/</id>
+ <author>
+   <name>shanegao</name>
+   <email>xianwei@me.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Cocoa 核心要点</title>
+   <link href="http://shanegao.com/blog//tech/2013/09/02/cocoa-core-competencies"/>
+   <updated>2013-09-02T00:00:00+08:00</updated>
+   <id>http://shanegao.com/blog//tech/2013/09/02/cocoa-core-competencies</id>
+   <content type="html">&lt;p&gt;&lt;a href='https://developer.apple.com/library/ios/documentation/general/conceptual/DevPedia-CocoaCore'&gt;Cocoa Core Competencies&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id='accessibility'&gt;Accessibility&lt;/h3&gt;
+
+&lt;h3 id='accessor_method'&gt;Accessor method&lt;/h3&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>再见北京</title>
+   <link href="http://shanegao.com/blog//life/2013/08/14/hello-world"/>
+   <updated>2013-08-14T00:00:00+08:00</updated>
+   <id>http://shanegao.com/blog//life/2013/08/14/hello-world</id>
+   <content type="html">&lt;p&gt;北京空气 地铁挤，地铁站建设落后 公交堵车，挤 房子中介费一个月房租，六环内2w&lt;/p&gt;</content>
+ </entry>
+ 
+ 
+</feed>
